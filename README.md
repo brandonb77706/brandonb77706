@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandonb77706
-- 👀 I’m interested in ... backend
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... frontend
+- 🌱 I’m currently learning ... frontend languages
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... brandonb77706@gmail.com
 
